@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace');
+
+
+html {
+    background-image: url(../images/pink.jpg);
+
+}
+
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+body {
+
+    font-family: 'Dancing Script'}
+    font-size: 30px;
+
+    background-color:white
+    line-height: 14pt;
+
+
+}
+
+
+h1{
+   font-family: 'Covered By Your Grace'}
+
+a:hover {
+    color: skyblue
+
+}
